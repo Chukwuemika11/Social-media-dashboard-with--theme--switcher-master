@@ -100,9 +100,9 @@ main{
     cursor: pointer;
 }
 
-.first-row-box:hover{
-    /* background-color: hsl(227, 47%, 96%); */
-}
+/* .first-row-box:hover{
+    background-color: hsl(227, 47%, 96%);
+} */
 
 .border-top-color1{
     border-top: 3px solid #178FF5;
@@ -213,9 +213,9 @@ main{
     cursor: pointer;
 }
 
-.second-row-box:hover{
+/* .second-row-box:hover{
     background-color: hsl(227, 47%, 96%);
-}
+} */
 .top-part{
     display: flex;
     flex-direction: row;
